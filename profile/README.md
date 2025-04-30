@@ -55,8 +55,5 @@ A growing collection of simple tools to save you time:
 
 ## ☕ Support the Project
 
-If you’ve found any of this useful, you can support ongoing work here:  
-[👉 Buy Me A Coffee](https://buymeacoffee.com/mihirk)
-
 Thanks for visiting!  
 Feel free to open issues, suggest features, or contribute ideas!
