@@ -1,6 +1,6 @@
 # NAVIG 👋
 
-This is the home of a bunch of practical tools built with ❤️ to solve real-world problems. From public transport to healthy food discovery, from developer utilities to API monitoring — we’ve built it because we needed it.
+This is the home of a bunch of practical tools built to solve real-world problems. From public transport to healthy food discovery, from developer utilities to API monitoring — we’ve built it because we needed it.
 
 ---
 
